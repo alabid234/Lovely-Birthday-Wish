@@ -1,7 +1,6 @@
 
-import { myGF } from "./setup.js";
 import { render } from "./render.js";
-
+import myGF from "./setup.json" with { type: "json" }
 
 render(myGF)
 // floating hearts

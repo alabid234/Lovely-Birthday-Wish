@@ -1,0 +1,24 @@
+{
+    
+    "name": "Her Name",
+    "birthDayWish": "write a peragraph wishing her in 200-244 cherecter",
+
+    
+    "firstMeetDate": "2000-01-01",
+    "firstDate": "2000-01-01",
+    "favMemoryDate": "2000-01-01",    
+
+
+    "firstMeetExperiance": "Replace this with how it all started",
+    "firstDateExperiance": "Swap in the memory you both still laugh about",
+    "favMemory": "Tell about the favorite memory",
+    "stillInLoveText": "Wrap it up with where you are now and why this year is going to be even better.",
+    
+    
+    "whyILove": {
+        "first": "Replace this with why u love her",  
+        "second": "Replace this with why u love her", 
+        "third": "'Replace this with why u love her",  
+        "fourth": "Replace this with why u love her"  
+    }
+}
