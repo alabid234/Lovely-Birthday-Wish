@@ -1,24 +1,24 @@
 {
     
-    "name": "Her Name",
+    "name": "Maysha",
     "birthDayWish": "write a peragraph wishing her in 200-244 cherecter",
 
-    
-    "firstMeetDate": "2000-01-01",
-    "firstDate": "2000-01-01",
-    "favMemoryDate": "2000-01-01",    
+
+    "firstMeetDate": "2022-06-24",
+    "firstDate": "2000-07-03",
+    "favMemoryDate": "2026-03-21",    
 
 
-    "firstMeetExperiance": "Replace this with how it all started",
-    "firstDateExperiance": "Swap in the memory you both still laugh about",
-    "favMemory": "Tell about the favorite memory",
-    "stillInLoveText": "Wrap it up with where you are now and why this year is going to be even better.",
+    "firstMeetExperiance": "At first, when I saw that pic, my mind went blank, and I couldn't think of anything else without it. Well I can still recall that feeling as if it was yesterday.",
+    "firstDateExperiance": "I was sooo nervous. I, and I guess I wasn’t able to enjoy it. Well, I would always remember the scene with the money, though.",
+    "favMemory": "I like it because my efforts have paid off.  That is my end goal from the beginning. And, this is a pointer that it might work. I'm talking about this year’s Eid.",
+    "stillInLoveText": "But now I guess you're the one holding  the thin threads. Just so U know, I do love you. But for some reason, suddenly I feel like  there is a wall. I don’t know why.",
     
     
     "whyILove": {
-        "first": "Replace this with why u love her",  
-        "second": "Replace this with why u love her", 
-        "third": "'Replace this with why u love her",  
-        "fourth": "Replace this with why u love her"  
+        "first": "Your Honesty",  
+        "second": "Your Obsession", 
+        "third": "Your Smartness",  
+        "fourth": "Yoru Preasance"  
     }
 }
